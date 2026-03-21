@@ -87,22 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>DATA ANALYTICS</h3>
+              <h4>Extracting Insights from Data</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Analyzing complex datasets and building dashboards to support data-driven decisions.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Tools & Technologies</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">MySQL</div>
+                <div className="what-tags">Excel</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Windows</div>
+                <div className="what-tags">C++</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +124,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>SOFT SKILLS & INTERESTS</h3>
+              <h4>Communication & Problem Solving</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Collaborating in teams, communicating findings effectively, and maintaining strong interests in AI & AgriTech.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skills & Languages</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Leadership</div>
+                <div className="what-tags">Teamwork</div>
+                <div className="what-tags">English</div>
+                <div className="what-tags">Hindi</div>
+                <div className="what-tags">Kannada</div>
+                <div className="what-tags">Market Research</div>
+                <div className="what-tags">Trend Analysis</div>
               </div>
               <div className="what-arrow"></div>
             </div>
